@@ -1,0 +1,5 @@
+2025-09-19 12:01:56 INFO  base.BaseTest - Extent report flushed
+2025-09-19 12:03:51 INFO  base.BaseTest - Launched Chrome browser
+2025-09-19 12:03:54 INFO  base.BaseTest - Navigated to: https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2025-09-19 12:03:59 INFO  base.BaseTest - Browser closed
+2025-09-19 12:03:59 INFO  base.BaseTest - Extent report flushed
